@@ -1,0 +1,13 @@
+Crop_ID,Crop_Type,Variety,Region,Planting_Season,Harvest_Date,Acres_Cultivated,Yield_Per_Acre,Total_Production,Market_Price,Total_Revenue,Climate_Zone
+AG2024001,Wheat,Winter Wheat,Midwest,Winter,2024-07-15,500,3.5,1750,6.5,11375,Temperate
+AG2024002,Corn,Sweet Corn,Plains,Summer,2024-09-01,750,4.2,3150,4.8,15120,Semi-Arid
+AG2024003,Soybeans,Organic Soybeans,Delta,Spring,2024-10-15,300,2.8,840,12.5,10500,Subtropical
+AG2024004,Rice,Basmati,Southern,Monsoon,2024-08-30,250,4.0,1000,18.0,18000,Tropical
+AG2024005,Cotton,Long Staple,Southwest,Summer,2024-11-15,400,2.5,1000,75.0,75000,Arid
+
+[The full dataset would encompass:]
+- Multiple crop types
+- Various regional variations
+- Different planting seasons
+- Diverse climate zones
+- Varying yield and market prices

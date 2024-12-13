@@ -1,0 +1,13 @@
+Patient_ID,Department,Treatment_Type,Doctor_Specialization,Patient_Age_Group,Admission_Date,Discharge_Date,Treatment_Cost,Insurance_Coverage,Patient_Region,Length_of_Stay
+HC2024001,Cardiology,Heart Surgery,Cardiac Surgeon,55-64,2024-01-15,2024-01-22,50000,40000,North,7
+HC2024002,Oncology,Chemotherapy,Oncologist,45-54,2024-01-16,2024-02-15,75000,60000,South,30
+HC2024003,Orthopedics,Knee Replacement,Orthopedic Surgeon,65-74,2024-01-17,2024-01-30,45000,36000,East,13
+HC2024004,Neurology,Brain Scan,Neurologist,35-44,2024-01-18,2024-01-19,5000,4000,West,1
+HC2024005,Pediatrics,Child Vaccination,Pediatrician,0-10,2024-01-19,2024-01-19,500,400,Central,0
+
+[The full dataset would include:]
+- Wide range of medical departments
+- Varied treatment types
+- Different patient age groups
+- Diverse regions
+- Varying treatment costs and lengths of stay

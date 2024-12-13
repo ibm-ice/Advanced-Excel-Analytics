@@ -1,0 +1,13 @@
+Project_ID,Service_Type,Client_Industry,Project_Manager,Start_Date,End_Date,Project_Duration,Estimated_Cost,Actual_Cost,Billing_Rate,Total_Revenue,Project_Complexity
+IT2024001,Cloud Migration,Finance,Sarah Johnson,2024-01-15,2024-04-15,90,150000,140000,200,175000,High
+IT2024002,Cybersecurity Audit,Healthcare,Michael Chen,2024-01-16,2024-02-16,30,50000,45000,250,62500,Medium
+IT2024003,Custom Software Development,Retail,Emily Rodriguez,2024-01-17,2024-07-17,180,300000,280000,300,375000,Very High
+IT2024004,Network Infrastructure,Manufacturing,David Kim,2024-01-18,2024-03-18,60,75000,70000,200,100000,Low
+IT2024005,Data Analytics Consulting,Technology,Rachel Wong,2024-01-19,2024-05-19,120,200000,190000,250,250000,High
+
+[The full dataset would include:]
+- Diverse service types
+- Multiple client industries
+- Various project managers
+- Different project durations and complexities
+- Varied billing rates and revenue models

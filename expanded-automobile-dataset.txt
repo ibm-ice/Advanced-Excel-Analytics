@@ -1,0 +1,14 @@
+Production_ID,Vehicle_Type,Model,Manufacturer,Production_Plant,Quarter,Year,Units_Produced,Production_Cost_Per_Unit,Total_Production_Cost,Selling_Price,Total_Revenue,Market_Segment
+AUTO2024001,Sedan,Luxury Sedan,Mercedes-Benz,Germany,Q1,2024,500,50000,25000000,75000,37500000,Premium
+AUTO2024002,SUV,Compact SUV,Toyota,Japan,Q1,2024,750,35000,26250000,45000,33750000,Mid-Range
+AUTO2024003,Electric,Electric Hatchback,Tesla,USA,Q1,2024,300,40000,12000000,55000,16500000,Technology-Driven
+AUTO2024004,Truck,Commercial Pickup,Ford,USA,Q1,2024,250,45000,11250000,60000,15000000,Commercial
+AUTO2024005,Hybrid,Hybrid Sedan,Honda,Japan,Q1,2024,400,38000,15200000,50000,20000000,Eco-Friendly
+
+[The full dataset would continue with variations including:]
+- Different manufacturers (BMW, Volkswagen, Nissan, etc.)
+- Varied production volumes
+- Multiple quarters
+- Different vehicle types and models
+- Diverse production plants
+- Variations in pricing and market segments

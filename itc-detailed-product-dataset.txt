@@ -1,0 +1,25 @@
+Product_Segment,Product_Category,Product_Name,Brand_Name,Quarter,Year,Sales_Volume,Unit_Price,Total_Revenue,Production_Cost,Profit_Margin,Region,Distribution_Channel,Product_Type
+Cigarettes,Tobacco Products,Classic Medium,Goldflake,Q1,2024,150000,95,14250000,8550000,40.0,North,Direct Retail,Filtered Cigarettes
+Cigarettes,Tobacco Products,King Size,Wills Navy Cut,Q1,2024,120000,110,13200000,7920000,40.0,West,Modern Trade,Unfiltered Cigarettes
+Cigarettes,Tobacco Products,Menthol Blast,Capstan,Q1,2024,80000,105,8400000,5040000,40.0,South,E-commerce,Menthol Cigarettes
+Packaged Foods,Snacks,Cheese Balls,Bingo,Q1,2024,75000,30,2250000,1350000,40.0,East,Wholesale,Namkeen
+Packaged Foods,Instant Noodles,Masala Noodles,Sunfeast,Q1,2024,100000,45,4500000,2700000,40.0,Central,Direct Retail,Ready to Cook
+Packaged Foods,Biscuits,Cream Biscuits,Sunfeast Dark Fantasy,Q1,2024,85000,40,3400000,2040000,40.0,West,Modern Trade,Cream Biscuits
+Personal Care,Skin Care,Fairness Cream,Fair & Lovely,Q1,2024,50000,150,7500000,4500000,40.0,North,E-commerce,Skin Whitening
+Personal Care,Soap,Sandal Soap,Vivel,Q1,2024,70000,35,2450000,1470000,40.0,South,Direct Retail,Luxury Soap
+Personal Care,Shampoo,Anti-Dandruff,Vivel Hair Expertise,Q1,2024,45000,120,5400000,3240000,40.0,West,Modern Trade,Hair Care
+Stationery,Writing Instruments,Gel Pen,Classmate,Q1,2024,60000,20,1200000,720000,40.0,East,Wholesale,Gel Pens
+Stationery,Notebooks,Ruled Notebook,Classmate,Q1,2024,75000,40,3000000,1800000,40.0,Central,Direct Retail,Academic Notebook
+Stationery,Drawing,Color Pencils,Classmate,Q1,2024,40000,50,2000000,1200000,40.0,North,E-commerce,Art Supplies
+Cigarettes,Tobacco Products,Classic Medium,Goldflake,Q2,2024,160000,98,15680000,9408000,40.0,North,Direct Retail,Filtered Cigarettes
+Cigarettes,Tobacco Products,King Size,Wills Navy Cut,Q2,2024,130000,115,14950000,8970000,40.0,West,Modern Trade,Unfiltered Cigarettes
+Cigarettes,Tobacco Products,Menthol Blast,Capstan,Q2,2024,85000,110,9350000,5610000,40.0,South,E-commerce,Menthol Cigarettes
+Packaged Foods,Snacks,Cheese Balls,Bingo,Q2,2024,80000,32,2560000,1536000,40.0,East,Wholesale,Namkeen
+Packaged Foods,Instant Noodles,Masala Noodles,Sunfeast,Q2,2024,110000,47,5170000,3102000,40.0,Central,Direct Retail,Ready to Cook
+Packaged Foods,Biscuits,Cream Biscuits,Sunfeast Dark Fantasy,Q2,2024,90000,42,3780000,2268000,40.0,West,Modern Trade,Cream Biscuits
+Personal Care,Skin Care,Fairness Cream,Fair & Lovely,Q2,2024,55000,155,8525000,5115000,40.0,North,E-commerce,Skin Whitening
+Personal Care,Soap,Sandal Soap,Vivel,Q2,2024,75000,37,2775000,1665000,40.0,South,Direct Retail,Luxury Soap
+Personal Care,Shampoo,Anti-Dandruff,Vivel Hair Expertise,Q2,2024,50000,125,6250000,3750000,40.0,West,Modern Trade,Hair Care
+Stationery,Writing Instruments,Gel Pen,Classmate,Q2,2024,65000,22,1430000,858000,40.0,East,Wholesale,Gel Pens
+Stationery,Notebooks,Ruled Notebook,Classmate,Q2,2024,80000,42,3360000,2016000,40.0,Central,Direct Retail,Academic Notebook
+Stationery,Drawing,Color Pencils,Classmate,Q2,2024,45000,52,2340000,1404000,40.0,North,E-commerce,Art Supplies
