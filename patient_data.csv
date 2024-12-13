@@ -1,0 +1,101 @@
+Patient_ID,Department,Treatment_Type,Doctor_Specialization,Patient_Age_Group,Admission_Date,Discharge_Date,Treatment_Cost,Insurance_Coverage,Patient_Region,Length_of_Stay
+HC20240001,Neurology,Chemotherapy,Cardiac Surgeon,45-54,2024-11-05,2024-12-02,2199,1759,South,27
+HC20240002,Neurology,Heart Surgery,Orthopedic Surgeon,0-10,2024-03-18,2024-03-18,29945,23956,Central,0
+HC20240003,Pediatrics,Chemotherapy,Orthopedic Surgeon,21-34,2024-12-31,2025-01-10,63604,50883,West,10
+HC20240004,Orthopedics,Brain Scan,Cardiac Surgeon,11-20,2024-10-08,2024-11-07,76888,61510,North,30
+HC20240005,Cardiology,Knee Replacement,Pediatrician,55-64,2024-06-19,2024-07-06,47392,37913,South,17
+HC20240006,Neurology,Knee Replacement,Neurologist,21-34,2024-05-31,2024-06-21,48833,39066,North,21
+HC20240007,Orthopedics,Knee Replacement,Neurologist,0-10,2024-03-23,2024-04-17,49730,39784,Central,25
+HC20240008,Cardiology,Heart Surgery,Orthopedic Surgeon,0-10,2024-10-05,2024-10-26,33304,26643,Central,21
+HC20240009,Neurology,Chemotherapy,Pediatrician,65-74,2024-10-18,2024-10-30,9822,7857,West,12
+HC20240010,Pediatrics,Child Vaccination,Orthopedic Surgeon,75-84,2024-10-15,2024-11-10,71047,56837,Central,26
+HC20240011,Cardiology,Heart Surgery,Cardiac Surgeon,0-10,2024-07-18,2024-07-20,66483,53186,South,2
+HC20240012,Cardiology,Brain Scan,Orthopedic Surgeon,55-64,2024-09-13,2024-09-25,4598,3678,East,12
+HC20240013,Oncology,Brain Scan,Pediatrician,45-54,2024-01-11,2024-01-25,51998,41598,South,14
+HC20240014,Pediatrics,Knee Replacement,Pediatrician,45-54,2024-12-11,2025-01-01,23746,18996,South,21
+HC20240015,Orthopedics,Knee Replacement,Cardiac Surgeon,75-84,2024-04-24,2024-05-23,73237,58589,North,29
+HC20240016,Oncology,Chemotherapy,Neurologist,55-64,2024-01-10,2024-02-01,27587,22069,Central,22
+HC20240017,Neurology,Child Vaccination,Cardiac Surgeon,21-34,2024-04-20,2024-05-19,63512,50809,South,29
+HC20240018,Oncology,Heart Surgery,Cardiac Surgeon,55-64,2024-07-28,2024-08-09,59817,47853,East,12
+HC20240019,Cardiology,Knee Replacement,Orthopedic Surgeon,11-20,2024-01-12,2024-01-15,52936,42348,North,3
+HC20240020,Cardiology,Child Vaccination,Cardiac Surgeon,45-54,2024-09-05,2024-09-14,50757,40605,Central,9
+HC20240021,Neurology,Brain Scan,Orthopedic Surgeon,75-84,2024-05-24,2024-05-27,96583,77266,West,3
+HC20240022,Neurology,Child Vaccination,Cardiac Surgeon,55-64,2024-06-08,2024-07-05,33934,27147,West,27
+HC20240023,Oncology,Knee Replacement,Oncologist,65-74,2024-01-10,2024-01-25,1231,984,North,15
+HC20240024,Pediatrics,Chemotherapy,Orthopedic Surgeon,75-84,2024-07-03,2024-07-19,49877,39901,West,16
+HC20240025,Oncology,Heart Surgery,Pediatrician,45-54,2024-01-05,2024-01-29,96928,77542,Central,24
+HC20240026,Cardiology,Knee Replacement,Pediatrician,55-64,2024-05-05,2024-05-23,78286,62628,West,18
+HC20240027,Neurology,Brain Scan,Neurologist,45-54,2024-10-02,2024-10-21,16508,13206,Central,19
+HC20240028,Neurology,Brain Scan,Orthopedic Surgeon,45-54,2024-02-29,2024-03-02,39779,31823,South,2
+HC20240029,Oncology,Chemotherapy,Orthopedic Surgeon,0-10,2024-04-09,2024-04-10,98248,78598,Central,1
+HC20240030,Cardiology,Knee Replacement,Neurologist,0-10,2024-03-27,2024-04-20,55070,44056,North,24
+HC20240031,Neurology,Brain Scan,Orthopedic Surgeon,0-10,2024-10-03,2024-10-23,7061,5648,West,20
+HC20240032,Neurology,Knee Replacement,Pediatrician,11-20,2024-02-01,2024-02-05,60612,48489,West,4
+HC20240033,Neurology,Chemotherapy,Neurologist,11-20,2024-12-01,2024-12-11,31055,24844,West,10
+HC20240034,Neurology,Knee Replacement,Oncologist,21-34,2024-10-15,2024-11-05,62292,49833,West,21
+HC20240035,Oncology,Heart Surgery,Neurologist,21-34,2024-05-23,2024-06-07,63996,51196,Central,15
+HC20240036,Oncology,Knee Replacement,Neurologist,65-74,2024-09-30,2024-10-06,2876,2300,Central,6
+HC20240037,Cardiology,Heart Surgery,Oncologist,65-74,2024-04-08,2024-04-18,99153,79322,North,10
+HC20240038,Pediatrics,Heart Surgery,Pediatrician,75-84,2024-04-07,2024-04-22,39571,31656,East,15
+HC20240039,Pediatrics,Child Vaccination,Cardiac Surgeon,21-34,2024-10-12,2024-11-02,63926,51140,South,21
+HC20240040,Oncology,Chemotherapy,Neurologist,11-20,2024-03-08,2024-03-16,15507,12405,Central,8
+HC20240041,Cardiology,Chemotherapy,Pediatrician,75-84,2024-08-12,2024-09-03,60884,48707,East,22
+HC20240042,Oncology,Chemotherapy,Neurologist,45-54,2024-10-16,2024-11-04,9138,7310,North,19
+HC20240043,Neurology,Knee Replacement,Orthopedic Surgeon,0-10,2024-11-12,2024-11-25,50674,40539,East,13
+HC20240044,Oncology,Heart Surgery,Orthopedic Surgeon,11-20,2024-07-11,2024-07-18,28004,22403,South,7
+HC20240045,Orthopedics,Child Vaccination,Cardiac Surgeon,11-20,2024-08-02,2024-08-05,20026,16020,Central,3
+HC20240046,Orthopedics,Heart Surgery,Orthopedic Surgeon,75-84,2024-07-17,2024-08-13,80014,64011,South,27
+HC20240047,Neurology,Heart Surgery,Pediatrician,35-44,2024-09-15,2024-10-06,35265,28212,East,21
+HC20240048,Pediatrics,Child Vaccination,Orthopedic Surgeon,55-64,2024-07-02,2024-07-25,74891,59912,North,23
+HC20240049,Pediatrics,Knee Replacement,Pediatrician,45-54,2024-08-13,2024-09-12,68989,55191,West,30
+HC20240050,Orthopedics,Brain Scan,Neurologist,75-84,2024-05-02,2024-05-07,23584,18867,South,5
+HC20240051,Neurology,Brain Scan,Orthopedic Surgeon,55-64,2024-04-09,2024-05-02,11746,9396,Central,23
+HC20240052,Cardiology,Brain Scan,Cardiac Surgeon,75-84,2024-11-16,2024-12-01,38643,30914,West,15
+HC20240053,Oncology,Knee Replacement,Oncologist,75-84,2024-12-05,2024-12-09,38644,30915,North,4
+HC20240054,Oncology,Child Vaccination,Oncologist,75-84,2024-05-12,2024-05-15,35813,28650,East,3
+HC20240055,Oncology,Brain Scan,Neurologist,21-34,2024-05-14,2024-05-27,37515,30012,West,13
+HC20240056,Oncology,Chemotherapy,Pediatrician,65-74,2024-02-21,2024-02-21,20506,16404,Central,0
+HC20240057,Orthopedics,Heart Surgery,Oncologist,11-20,2024-02-05,2024-02-20,76667,61333,South,15
+HC20240058,Neurology,Chemotherapy,Oncologist,11-20,2024-11-19,2024-12-18,54534,43627,East,29
+HC20240059,Oncology,Heart Surgery,Cardiac Surgeon,75-84,2024-08-24,2024-09-19,54518,43614,East,26
+HC20240060,Cardiology,Heart Surgery,Neurologist,0-10,2024-04-28,2024-05-21,29294,23435,Central,23
+HC20240061,Cardiology,Heart Surgery,Orthopedic Surgeon,35-44,2024-06-14,2024-06-18,27091,21672,Central,4
+HC20240062,Oncology,Chemotherapy,Orthopedic Surgeon,35-44,2024-12-10,2024-12-15,75713,60570,East,5
+HC20240063,Cardiology,Knee Replacement,Cardiac Surgeon,45-54,2024-06-21,2024-07-06,75977,60781,West,15
+HC20240064,Neurology,Child Vaccination,Pediatrician,55-64,2024-10-04,2024-10-09,89004,71203,West,5
+HC20240065,Pediatrics,Child Vaccination,Oncologist,45-54,2024-06-09,2024-06-17,36294,29035,East,8
+HC20240066,Pediatrics,Chemotherapy,Neurologist,55-64,2024-04-30,2024-05-01,32403,25922,North,1
+HC20240067,Cardiology,Heart Surgery,Cardiac Surgeon,11-20,2024-12-31,2025-01-04,72209,57767,North,4
+HC20240068,Neurology,Heart Surgery,Neurologist,45-54,2024-03-17,2024-04-04,62021,49616,Central,18
+HC20240069,Oncology,Brain Scan,Neurologist,65-74,2024-10-19,2024-11-16,93901,75120,West,28
+HC20240070,Cardiology,Brain Scan,Oncologist,11-20,2024-07-20,2024-08-08,85780,68624,East,19
+HC20240071,Orthopedics,Heart Surgery,Orthopedic Surgeon,35-44,2024-08-24,2024-09-14,8731,6984,North,21
+HC20240072,Pediatrics,Chemotherapy,Neurologist,0-10,2024-05-04,2024-05-23,90654,72523,Central,19
+HC20240073,Pediatrics,Heart Surgery,Pediatrician,21-34,2024-11-20,2024-11-30,9164,7331,South,10
+HC20240074,Oncology,Brain Scan,Neurologist,55-64,2024-10-03,2024-10-17,37184,29747,North,14
+HC20240075,Cardiology,Knee Replacement,Neurologist,75-84,2024-06-03,2024-06-20,71465,57172,West,17
+HC20240076,Cardiology,Chemotherapy,Neurologist,55-64,2024-08-15,2024-09-07,52731,42184,East,23
+HC20240077,Pediatrics,Brain Scan,Cardiac Surgeon,11-20,2024-11-14,2024-12-06,69362,55489,West,22
+HC20240078,Pediatrics,Brain Scan,Pediatrician,45-54,2024-05-31,2024-06-30,93268,74614,North,30
+HC20240079,Cardiology,Knee Replacement,Oncologist,75-84,2024-09-17,2024-10-04,14840,11872,North,17
+HC20240080,Neurology,Child Vaccination,Orthopedic Surgeon,21-34,2024-07-25,2024-08-18,33455,26764,Central,24
+HC20240081,Cardiology,Brain Scan,Pediatrician,21-34,2024-05-23,2024-05-29,34060,27248,East,6
+HC20240082,Cardiology,Child Vaccination,Pediatrician,11-20,2024-02-15,2024-03-04,63661,50928,West,18
+HC20240083,Oncology,Knee Replacement,Oncologist,45-54,2024-07-31,2024-08-16,93446,74756,North,16
+HC20240084,Cardiology,Chemotherapy,Oncologist,11-20,2024-01-05,2024-01-10,32504,26003,East,5
+HC20240085,Orthopedics,Brain Scan,Cardiac Surgeon,65-74,2024-11-11,2024-11-16,14763,11810,South,5
+HC20240086,Neurology,Brain Scan,Neurologist,35-44,2024-04-30,2024-05-18,82663,66130,South,18
+HC20240087,Orthopedics,Knee Replacement,Cardiac Surgeon,35-44,2024-10-24,2024-11-22,670,536,North,29
+HC20240088,Orthopedics,Knee Replacement,Neurologist,21-34,2024-01-22,2024-02-17,60889,48711,South,26
+HC20240089,Orthopedics,Chemotherapy,Pediatrician,11-20,2024-05-15,2024-06-12,12955,10364,East,28
+HC20240090,Oncology,Heart Surgery,Cardiac Surgeon,21-34,2024-03-18,2024-03-24,78518,62814,North,6
+HC20240091,Neurology,Heart Surgery,Pediatrician,65-74,2024-04-29,2024-05-22,80747,64597,East,23
+HC20240092,Oncology,Child Vaccination,Cardiac Surgeon,55-64,2024-03-09,2024-04-06,6892,5513,West,28
+HC20240093,Pediatrics,Knee Replacement,Orthopedic Surgeon,65-74,2024-08-18,2024-09-11,24857,19885,North,24
+HC20240094,Orthopedics,Brain Scan,Neurologist,11-20,2024-03-23,2024-03-26,65767,52613,West,3
+HC20240095,Orthopedics,Heart Surgery,Cardiac Surgeon,75-84,2024-06-09,2024-06-14,51149,40919,South,5
+HC20240096,Neurology,Brain Scan,Neurologist,65-74,2024-04-03,2024-04-05,48048,38438,North,2
+HC20240097,Neurology,Knee Replacement,Cardiac Surgeon,21-34,2024-10-06,2024-11-01,64563,51650,East,26
+HC20240098,Oncology,Brain Scan,Pediatrician,55-64,2024-02-15,2024-02-19,4767,3813,North,4
+HC20240099,Orthopedics,Heart Surgery,Orthopedic Surgeon,75-84,2024-01-02,2024-01-06,70364,56291,West,4
+HC20240100,Neurology,Brain Scan,Neurologist,11-20,2024-12-13,2024-12-20,78934,63147,South,7

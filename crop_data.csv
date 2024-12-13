@@ -1,0 +1,101 @@
+Crop_ID,Crop_Type,Variety,Region,Planting_Season,Harvest_Date,Acres_Cultivated,Yield_Per_Acre,Total_Production,Market_Price,Total_Revenue,Climate_Zone
+AG20240001,Soybeans,Sweet Corn,Plains,Monsoon,2024-09-17,215,4.3,924.5,58.4,53990.799999999996,Semi-Arid
+AG20240002,Soybeans,Sweet Corn,Plains,Monsoon,2024-02-23,386,2.4,926.4,19.8,18342.72,Arid
+AG20240003,Soybeans,Winter Wheat,Southern,Monsoon,2024-01-31,318,4.9,1558.2,62.3,97075.86,Subtropical
+AG20240004,Soybeans,Long Staple,Southwest,Winter,2024-06-05,104,5.0,520.0,54.0,28080.0,Tropical
+AG20240005,Corn,Sweet Corn,Delta,Summer,2024-04-18,937,2.8,2623.6,69.1,181290.75999999998,Arid
+AG20240006,Soybeans,Long Staple,Delta,Winter,2024-04-03,342,5.0,1710.0,19.2,32832.0,Temperate
+AG20240007,Corn,Long Staple,Plains,Summer,2024-04-14,878,4.9,4302.200000000001,67.7,291258.94000000006,Tropical
+AG20240008,Rice,Long Staple,Southern,Monsoon,2024-03-14,147,4.4,646.8000000000001,18.5,11965.800000000001,Arid
+AG20240009,Corn,Winter Wheat,Southern,Monsoon,2024-08-27,606,2.3,1393.8,61.7,85997.46,Subtropical
+AG20240010,Wheat,Sweet Corn,Plains,Summer,2024-09-17,726,2.3,1669.8,72.4,120893.52,Temperate
+AG20240011,Rice,Winter Wheat,Delta,Summer,2024-09-23,423,4.4,1861.2,19.7,36665.64,Arid
+AG20240012,Corn,Basmati,Delta,Monsoon,2024-09-14,614,4.9,3008.6000000000004,52.4,157650.64,Semi-Arid
+AG20240013,Cotton,Winter Wheat,Plains,Winter,2024-03-14,850,3.3,2805.0,66.4,186252.00000000003,Tropical
+AG20240014,Wheat,Long Staple,Plains,Monsoon,2024-04-23,942,2.1,1978.2,23.5,46487.700000000004,Tropical
+AG20240015,Corn,Basmati,Southwest,Monsoon,2024-07-09,324,3.0,972.0,72.8,70761.59999999999,Tropical
+AG20240016,Soybeans,Sweet Corn,Southwest,Summer,2024-04-30,702,2.3,1614.6,6.2,10010.52,Semi-Arid
+AG20240017,Soybeans,Organic Soybeans,Midwest,Summer,2024-06-26,804,4.8,3859.2,33.4,128897.27999999998,Semi-Arid
+AG20240018,Cotton,Organic Soybeans,Delta,Spring,2024-10-07,818,4.6,3762.7999999999997,71.2,267911.36,Semi-Arid
+AG20240019,Rice,Sweet Corn,Southwest,Spring,2024-08-24,608,4.7,2857.6,58.3,166598.08,Tropical
+AG20240020,Cotton,Basmati,Midwest,Monsoon,2024-03-13,535,3.3,1765.5,66.2,116876.1,Tropical
+AG20240021,Rice,Long Staple,Southwest,Spring,2024-12-13,304,5.0,1520.0,9.3,14136.000000000002,Arid
+AG20240022,Wheat,Sweet Corn,Midwest,Spring,2024-01-20,741,3.8,2815.7999999999997,38.9,109534.61999999998,Tropical
+AG20240023,Soybeans,Winter Wheat,Midwest,Summer,2024-11-10,920,4.9,4508.0,15.3,68972.40000000001,Arid
+AG20240024,Cotton,Sweet Corn,Midwest,Spring,2024-03-18,457,4.4,2010.8000000000002,32.7,65753.16000000002,Tropical
+AG20240025,Wheat,Sweet Corn,Midwest,Summer,2024-02-01,135,4.6,621.0,38.9,24156.899999999998,Tropical
+AG20240026,Corn,Long Staple,Plains,Spring,2024-02-18,775,4.6,3564.9999999999995,13.6,48483.99999999999,Tropical
+AG20240027,Cotton,Winter Wheat,Southern,Winter,2024-08-03,504,3.7,1864.8000000000002,72.0,134265.6,Tropical
+AG20240028,Soybeans,Sweet Corn,Midwest,Summer,2024-10-24,649,4.1,2660.8999999999996,8.5,22617.649999999998,Arid
+AG20240029,Rice,Sweet Corn,Midwest,Winter,2024-10-03,663,3.7,2453.1,33.5,82178.84999999999,Temperate
+AG20240030,Corn,Long Staple,Midwest,Monsoon,2024-09-09,873,4.5,3928.5,26.8,105283.8,Arid
+AG20240031,Rice,Organic Soybeans,Delta,Winter,2024-11-22,997,2.4,2392.7999999999997,18.4,44027.51999999999,Temperate
+AG20240032,Rice,Winter Wheat,Delta,Monsoon,2024-06-22,905,2.4,2172.0,69.3,150519.6,Semi-Arid
+AG20240033,Corn,Sweet Corn,Midwest,Summer,2024-04-17,992,5.0,4960.0,37.5,186000.0,Semi-Arid
+AG20240034,Soybeans,Organic Soybeans,Plains,Spring,2024-02-13,303,3.8,1151.3999999999999,35.9,41335.259999999995,Temperate
+AG20240035,Corn,Sweet Corn,Southwest,Monsoon,2024-04-14,815,3.0,2445.0,4.4,10758.0,Semi-Arid
+AG20240036,Soybeans,Winter Wheat,Midwest,Winter,2024-01-18,397,2.2,873.4000000000001,22.4,19564.16,Temperate
+AG20240037,Soybeans,Organic Soybeans,Midwest,Spring,2024-08-19,681,4.2,2860.2000000000003,37.6,107543.52000000002,Arid
+AG20240038,Cotton,Long Staple,Southwest,Winter,2024-04-27,842,3.9,3283.7999999999997,60.2,197684.75999999998,Subtropical
+AG20240039,Corn,Sweet Corn,Midwest,Winter,2024-08-10,225,3.8,855.0,10.0,8550.0,Subtropical
+AG20240040,Rice,Basmati,Southwest,Winter,2024-04-07,898,2.1,1885.8000000000002,24.2,45636.36,Subtropical
+AG20240041,Soybeans,Long Staple,Midwest,Summer,2024-08-19,618,2.2,1359.6000000000001,61.4,83479.44,Tropical
+AG20240042,Corn,Sweet Corn,Southwest,Winter,2024-11-06,972,4.9,4762.8,36.1,171937.08000000002,Tropical
+AG20240043,Cotton,Organic Soybeans,Plains,Spring,2024-01-27,493,3.2,1577.6000000000001,16.3,25714.880000000005,Arid
+AG20240044,Corn,Organic Soybeans,Midwest,Winter,2024-10-09,779,4.7,3661.3,62.5,228831.25,Subtropical
+AG20240045,Cotton,Basmati,Plains,Summer,2024-01-04,592,2.7,1598.4,45.9,73366.56,Tropical
+AG20240046,Rice,Sweet Corn,Southwest,Monsoon,2024-01-01,368,2.9,1067.2,63.6,67873.92,Subtropical
+AG20240047,Cotton,Winter Wheat,Midwest,Summer,2024-11-24,549,2.1,1152.9,58.7,67675.23000000001,Temperate
+AG20240048,Rice,Sweet Corn,Delta,Spring,2024-07-16,657,3.0,1971.0,8.8,17344.800000000003,Subtropical
+AG20240049,Soybeans,Long Staple,Southern,Monsoon,2024-11-27,537,2.1,1127.7,11.2,12630.24,Temperate
+AG20240050,Soybeans,Winter Wheat,Southern,Spring,2024-08-20,363,3.5,1270.5,16.2,20582.1,Temperate
+AG20240051,Wheat,Long Staple,Midwest,Summer,2024-03-18,517,2.4,1240.8,36.8,45661.439999999995,Semi-Arid
+AG20240052,Wheat,Winter Wheat,Delta,Spring,2024-07-13,459,3.2,1468.8000000000002,65.9,96793.92000000003,Tropical
+AG20240053,Rice,Organic Soybeans,Southern,Spring,2024-12-16,487,3.9,1899.3,24.3,46152.99,Tropical
+AG20240054,Wheat,Organic Soybeans,Delta,Winter,2024-12-12,906,4.3,3895.7999999999997,59.8,232968.83999999997,Arid
+AG20240055,Cotton,Sweet Corn,Midwest,Winter,2024-05-15,979,4.5,4405.5,69.2,304860.60000000003,Temperate
+AG20240056,Rice,Winter Wheat,Plains,Winter,2024-04-09,887,2.6,2306.2000000000003,44.7,103087.14000000001,Tropical
+AG20240057,Wheat,Long Staple,Southern,Winter,2024-02-02,285,4.4,1254.0,20.0,25080.0,Subtropical
+AG20240058,Rice,Long Staple,Southern,Spring,2024-04-21,409,2.3,940.6999999999999,23.3,21918.309999999998,Arid
+AG20240059,Cotton,Basmati,Southwest,Winter,2024-08-19,478,2.8,1338.3999999999999,27.8,37207.52,Arid
+AG20240060,Wheat,Winter Wheat,Southwest,Summer,2024-02-05,623,3.0,1869.0,67.5,126157.5,Subtropical
+AG20240061,Rice,Organic Soybeans,Southern,Summer,2024-04-26,685,3.7,2534.5,63.8,161701.1,Arid
+AG20240062,Soybeans,Organic Soybeans,Plains,Monsoon,2024-11-07,288,2.5,720.0,68.7,49464.0,Subtropical
+AG20240063,Rice,Winter Wheat,Southern,Spring,2024-03-23,362,3.8,1375.6,53.5,73594.59999999999,Semi-Arid
+AG20240064,Corn,Sweet Corn,Delta,Winter,2024-01-17,272,2.0,544.0,44.0,23936.0,Tropical
+AG20240065,Wheat,Winter Wheat,Plains,Winter,2024-08-19,922,2.1,1936.2,39.2,75899.04000000001,Arid
+AG20240066,Soybeans,Organic Soybeans,Southern,Monsoon,2024-05-08,136,3.6,489.6,66.8,32705.28,Temperate
+AG20240067,Rice,Organic Soybeans,Plains,Spring,2024-12-18,100,4.7,470.0,40.7,19129.0,Temperate
+AG20240068,Cotton,Basmati,Southern,Summer,2024-11-17,424,3.4,1441.6,9.7,13983.519999999999,Tropical
+AG20240069,Cotton,Organic Soybeans,Delta,Winter,2024-08-30,249,2.2,547.8000000000001,49.2,26951.760000000006,Arid
+AG20240070,Corn,Organic Soybeans,Midwest,Winter,2024-05-31,564,4.2,2368.8,51.3,121519.44,Arid
+AG20240071,Wheat,Basmati,Delta,Spring,2024-09-30,270,4.3,1161.0,70.5,81850.5,Temperate
+AG20240072,Corn,Winter Wheat,Midwest,Summer,2024-10-24,469,3.0,1407.0,36.4,51214.799999999996,Subtropical
+AG20240073,Rice,Sweet Corn,Delta,Summer,2024-01-14,747,3.8,2838.6,10.5,29805.3,Tropical
+AG20240074,Soybeans,Long Staple,Southwest,Winter,2024-06-21,366,3.5,1281.0,4.2,5380.2,Tropical
+AG20240075,Soybeans,Sweet Corn,Southern,Monsoon,2024-06-10,904,3.2,2892.8,60.6,175303.68000000002,Temperate
+AG20240076,Rice,Winter Wheat,Southern,Monsoon,2024-01-12,981,4.3,4218.3,69.8,294437.34,Arid
+AG20240077,Rice,Basmati,Plains,Winter,2024-11-08,283,2.3,650.9,36.1,23497.49,Arid
+AG20240078,Rice,Winter Wheat,Southern,Winter,2024-12-07,562,2.6,1461.2,68.5,100092.2,Temperate
+AG20240079,Soybeans,Sweet Corn,Midwest,Summer,2024-05-12,662,2.1,1390.2,68.8,95645.76,Tropical
+AG20240080,Corn,Sweet Corn,Southwest,Summer,2024-06-09,972,2.0,1944.0,56.3,109447.2,Temperate
+AG20240081,Corn,Long Staple,Southern,Winter,2024-01-05,677,2.2,1489.4,41.9,62405.86,Temperate
+AG20240082,Soybeans,Organic Soybeans,Delta,Summer,2024-05-10,380,4.9,1862.0000000000002,61.7,114885.40000000002,Temperate
+AG20240083,Rice,Long Staple,Midwest,Winter,2024-07-20,525,2.2,1155.0,39.0,45045.0,Temperate
+AG20240084,Cotton,Long Staple,Southwest,Summer,2024-10-20,159,4.0,636.0,12.8,8140.8,Tropical
+AG20240085,Wheat,Organic Soybeans,Southern,Winter,2024-10-14,748,2.2,1645.6000000000001,71.7,117989.52000000002,Subtropical
+AG20240086,Cotton,Basmati,Southwest,Spring,2024-04-06,558,4.8,2678.4,10.7,28658.879999999997,Tropical
+AG20240087,Corn,Sweet Corn,Delta,Spring,2024-01-02,640,4.2,2688.0,13.4,36019.200000000004,Subtropical
+AG20240088,Cotton,Winter Wheat,Plains,Spring,2024-01-05,334,2.8,935.1999999999999,31.8,29739.359999999997,Temperate
+AG20240089,Corn,Organic Soybeans,Midwest,Summer,2024-12-02,845,3.0,2535.0,53.6,135876.0,Arid
+AG20240090,Cotton,Sweet Corn,Southern,Summer,2024-11-26,300,4.9,1470.0,16.9,24842.999999999996,Arid
+AG20240091,Corn,Basmati,Midwest,Summer,2024-08-27,370,3.7,1369.0,4.8,6571.2,Semi-Arid
+AG20240092,Corn,Winter Wheat,Southern,Winter,2024-02-21,712,3.1,2207.2000000000003,32.5,71734.00000000001,Temperate
+AG20240093,Cotton,Long Staple,Southwest,Winter,2024-05-07,117,2.9,339.3,31.0,10518.300000000001,Subtropical
+AG20240094,Wheat,Long Staple,Midwest,Monsoon,2024-11-13,203,4.5,913.5,48.9,44670.15,Subtropical
+AG20240095,Rice,Sweet Corn,Midwest,Summer,2024-05-13,246,3.4,836.4,16.1,13466.04,Semi-Arid
+AG20240096,Soybeans,Organic Soybeans,Midwest,Monsoon,2024-06-27,251,4.7,1179.7,11.1,13094.67,Arid
+AG20240097,Corn,Long Staple,Southern,Summer,2024-05-22,448,2.6,1164.8,14.4,16773.12,Temperate
+AG20240098,Corn,Long Staple,Southwest,Winter,2024-01-02,757,3.6,2725.2000000000003,30.6,83391.12000000001,Subtropical
+AG20240099,Cotton,Organic Soybeans,Plains,Winter,2024-01-21,599,2.0,1198.0,52.1,62415.8,Semi-Arid
+AG20240100,Wheat,Organic Soybeans,Southern,Winter,2024-08-04,897,4.6,4126.2,21.5,88713.3,Temperate
